@@ -5,3 +5,5 @@ Code for preparing data and training machine translation models for Buryat langu
 Website: https://burtranslate.ru/
 
 Paper: https://aclanthology.org/2025.fieldmatters-1.8/
+
+Hugging Face: https://huggingface.co/buryat-translation
